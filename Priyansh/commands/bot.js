@@ -32,12 +32,12 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
   
   var rand = tl[Math.floor(Math.random() * tl.length)]
 
-    if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
-     return api.sendMessage("", threadID);
+    if ((event.body.toLowerCase() == "😎") || (event.body.toLowerCase() == "")) {
+     return api.sendMessage("𝐜𝐡𝐚𝐬𝐡𝐦𝐚 𝐇𝐚𝐭𝐨𝐧𝐚 𝐬𝐢𝐫 𝐤𝐲𝐚 𝐧𝐚𝐚𝐦 𝐡𝐚𝐢 𝐚𝐩𝐤𝐚😁", threadID);
    };
 
-    if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
-     return api.sendMessage("", threadID);
+    if ((event.body.toLowerCase() == "😁") || (event.body.toLowerCase() == "")) {
+     return api.sendMessage("𝐀𝐀𝐉 𝐁𝐔𝐑𝐀𝐒𝐇 𝐊𝐀𝐑 𝐊𝐄 𝐀𝐀𝐘𝐄 𝐇𝐎😁😁", threadID);
    };
   
    if
@@ -70,15 +70,15 @@ if ((event.body.toLowerCase() == "chumma de") || (event.body.toLowerCase() == "k
    };
 
    if ((event.body.toLowerCase() == "bot hume kon banaya") || (event.body.toLowerCase() == "tume kis ne banaya hai")) {
-     return api.sendMessage("𝐀𝐚𝐃𝐢 𝐁𝐚𝐁𝐮 𝐉𝐢 𝐍𝐞", threadID);
+     return api.sendMessage("𝐒𝐇𝐀𝐀𝐍  𝐉𝐢 𝐍𝐞", threadID);
    };
 
   if ((event.body.toLowerCase() == "bot admin") || (event.body.toLowerCase() == "bot ka admin kon hai")) {
-     return api.sendMessage("𝐀𝐚𝐃𝐢 𝐁𝐚𝐁𝐮 𝐉𝐢 𝐍𝐞", threadID);
+     return api.sendMessage("𝐒𝐇𝐀𝐀𝐍 𝐊𝐇𝐀𝐍 𝐉𝐢 𝐍𝐞", threadID);
    };
 
    if ((event.body.toLowerCase() == "uff") || (event.body.toLowerCase() == "UFF")) {
-     return api.sendMessage("🌸== 𝐇𝐲𝐄 𝐓𝐞𝐑𝐢 𝐮𝐅𝐅 𝐌𝐞𝐑𝐞  😍 ___ 𝐀𝐀𝐃𝐈 𝐁𝐀𝐁𝐔 ___ 😍 𝐁𝐨𝐒𝐬 𝐅𝐢𝐃𝐚 𝐇𝐨 𝐆𝐚𝐘𝐞😁", threadID);
+     return api.sendMessage("🌸== 𝐇𝐲𝐄 𝐓𝐞𝐑𝐢 𝐮𝐅𝐅 𝐌𝐞𝐑𝐞  😍 ___ 𝐒𝐡𝐚𝐚𝐧 𝐊𝐡𝐚𝐧 ___ 😍 𝐁𝐨𝐒𝐬 𝐅𝐢𝐃𝐚 𝐇𝐨 𝐆𝐚𝐘𝐞😁", threadID);
    };
 
    if ((event.body.toLowerCase() == "call aao") || (event.body.toLowerCase() == "Call aao?")) {
@@ -87,15 +87,15 @@ if ((event.body.toLowerCase() == "chumma de") || (event.body.toLowerCase() == "k
 
 
    if ((event.body.toLowerCase() == "❤️") || (event.body.toLowerCase() == "🙏")) {
-     return api.sendMessage("__🥰  𝐌𝐀𝐈𝐍 𝐓𝐎 𝐑𝐀𝐃𝐇𝐀 𝐑𝐀𝐍𝐈 𝐊𝐀 𝐃𝐄𝐄𝐖𝐀𝐍𝐀 𝐇𝐔 𝐏𝐘𝐀𝐑 𝐒𝐄 𝐁𝐎𝐋𝐎 𝐑𝐀𝐃𝐇𝐄 𝐑𝐀𝐃𝐇𝐄 😍 ❤️",threadID);
+     return api.sendMessage("__🥰  𝐌𝐀𝐈𝐍 𝐓𝐎 𝐀𝐋𝐋𝐀𝐇  𝐊𝐀 𝐁𝐀𝐍𝐃𝐀 𝐇𝐎𝐎𝐍 𝐇𝐔 𝐏𝐘𝐀𝐑 𝐒𝐄 𝐁𝐎𝐋𝐎 𝐀𝐒𝐋𝐀𝐌𝐔𝐀𝐋𝐈𝐊𝐔𝐌 😍 ❤️",threadID);
    };
 
 if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalamu alaikum")) {
      return api.sendMessage("Walekum assalam", threadID);
    };
 
-  if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
-    return api.sendMessage("️", threadID);
+  if ((event.body.toLowerCase() == "shaan") || (event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
+    return api.sendMessage("️𝑩𝑶𝑺𝑺 𝑩𝑼𝑺𝒀 𝑯𝑨𝑰 𝑴𝑼𝑱𝑯 𝑺𝑬 𝑩𝑨𝑻 𝑲𝑨𝑹𝑶😎", threadID);
    };
 
    if ((event.body.toLowerCase() == "😐") || (event.body.toLowerCase() == "😐😐") || (event.body.toLowerCase() == "😐😐😐") || (event.body.toLowerCase() == "😐😐😐😐")) {
@@ -144,11 +144,11 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
    };
 
    if ((event.body.toLowerCase() == "does the bot love you") || (event.body.toLowerCase() == "does the bot love you")) {
-     return api.sendMessage("🌸====『*★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀  ཫ༄𒁍≛🥰आदि बाबू❤️ *★᭄ ཫ༄𒁍≛ 』====🌸__💙 Yes I love you and everyone so much", threadID);
+     return api.sendMessage("🌸====『*★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀  ཫ༄𒁍≛🥀𝙎𝙃𝘼𝘼𝙉 𝙆𝙃𝘼𝙉❤️ *★᭄ ཫ༄𒁍≛ 』====🌸__💙 Yes I love you and everyone so much", threadID);
    };
 
    if ((event.body.toLowerCase() == "bot go to sleep") || (event.body.toLowerCase() == "bot goes to sleep")) {
-     return api.sendMessage("🌸====『*★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀  ཫ༄𒁍≛आदि❤️बाबू❤ *★᭄ ཫ༄𒁍≛ 』====🌸__💙I'm a bot, you're the one who should go to sleep <3", threadID);
+     return api.sendMessage("🌸====『*★᭄𝗖𝗿𝗲𝗱𝗶𝘁'𝘀  ཫ༄𒁍𝙎𝙃𝘼𝘼𝙉❤️𝙆𝙃𝘼𝙉❤ *★᭄ ཫ༄𒁍≛ 』====🌸__💙I'm a bot, you're the one who should go to sleep <3", threadID);
    };
 
    if ((event.body.toLowerCase() == "") || (event.body.toLowerCase() == "")) {
@@ -166,7 +166,7 @@ if ((event.body.toLowerCase() == "🤲") ||(event.body.toLowerCase() == "Assalam
   
   if (event.body.indexOf("Bot") == 0 || (event.body.indexOf("Bot") == 0)) {
     var msg = {
-      body: ` ${name} \n____________________________________\n\n${rand}\n____________________________________ \n𝐎𝐰𝐧𝐞𝐫 ➻  ────  𝐀𝐚̃𝐃𝐢   𝐁𝐚𝐁𝐮`
+      body: ` ${name} \n____________________________________\n\n${rand}\n____________________________________ \n𝐎𝐰𝐧𝐞𝐫 ➻  ────  𝙎𝙃𝘼𝘼𝙉 𝙆𝙃𝘼𝙉 𝙆`
     }
     return api.sendMessage(msg, threadID, messageID);
   };
